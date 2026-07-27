@@ -1,7 +1,7 @@
 {
   "name": "مركز سيد مجيد الشرع",
   "short_name": "المخزن",
-  "start_url": "./parts_inventory_v3.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f0f0f",
   "theme_color": "#0f0f0f",
